@@ -1,0 +1,61 @@
+body {
+   background-image: url("../images/rickandmorty.jpg") ;
+    background-size: 1400px;
+
+}
+
+#maincontainer{
+    background-color: grey;
+    border-radius: 25px;
+    font-family: 'Bangers', cursive;
+    text-align: center;
+}
+
+#questions{
+    background-color: grey;
+    border-radius: 25px;
+    width: 60%;
+    padding: 30px;
+    font-family: 'Bangers', cursive;
+}
+
+#timer{
+    margin: 20px, auto;
+    background-color: black;
+    color: white;
+    font-family: 'Bangers', cursive;
+    width: 40%;
+    border-radius: 25px;
+    font-size: 50px;
+    text-align: center;
+}
+
+#correct{
+    background-color: grey;
+    border-radius: 25px;
+    width: 60%;
+    padding: 30px;
+    font-family: 'Bangers', cursive;
+    font-size: 20px;
+
+}
+
+#incorrect{
+    background-color: grey;
+    border-radius: 25px;
+    width: 60%;
+    padding: 30px;
+    font-family: 'Bangers', cursive;
+    font-size: 20px;
+
+}
+
+#unanswered{
+    background-color: grey;
+    border-radius: 25px;
+    width: 60%;
+    padding: 30px;
+    font-family: 'Bangers', cursive;
+    font-size: 20px;
+
+}
